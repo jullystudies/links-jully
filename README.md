@@ -1,5 +1,6 @@
 <h1> Página de links </h1>
 <img src="imagens-capa/capa.png" alt="Imagem de capa do post mostrando a versão Escura e a versão Clara">
+<a href="https://jullystudies.github.io/links-jully/" target="_blank">Link do projeto</a>
 
 
 <h2>Projeto</h2>
