@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-br" class="light">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -10,7 +10,7 @@
 <body>
     
     <div id="container">
-        <div id="switch">
+        <div id="switch" onclick="toggleMode()">
             <button></button>
             <span></span>
         </div>
@@ -19,15 +19,16 @@
             <p>Jullyane Amaral Alves</p>
         </div>
         <div id="social-links">
-            <a href="#"><ion-icon name="logo-instagram"></ion-icon></a>
-            <a href="#"><ion-icon name="logo-linkedin"></ion-icon></a>
+            <a href="https://www.instagram.com/jullyanecabins/" target="_blank"><ion-icon name="logo-instagram"></ion-icon></a>
+            <a href="https://www.linkedin.com/in/jullyane-amaral/" target="_blank"><ion-icon name="logo-linkedin"></ion-icon></a>
         </div>
         <ul>
-            <li><a href="#">GitHub de estudos</a></li>
-            <li><a href="#">Portifólio</a></li>
+            <li><a href="https://github.com/jullystudies" target="_blank">GitHub de estudos</a></li>
+            <li><a href="#" target="_blank">Portifólio</a></li>
         </ul>
         <footer>
-            <p>Feito por Jullyane</p>
+            <p> ♥ Feito por Jullyane</p>
+            <p class="inspiration">Inspirado no projeto DevLinks da Rocketseat</p>
         </footer>
     </div>
     <script
@@ -38,5 +39,6 @@
       nomodule
       src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"
     ></script>
+    <script src="script.js"></script>
 </body>
 </html>
