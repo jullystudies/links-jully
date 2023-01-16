@@ -3,7 +3,6 @@
 
 
 <h2>Projeto</h2>
-
     <p> ♥ Projeto desenvolvido usando como base o projeto DevLinks da Rocketseat, mudando cores e posicionamento dos elementos.
     </p>
 
